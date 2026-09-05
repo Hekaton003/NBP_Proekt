@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:18
+    container_name: nbp_postgres
+    environment:
+      POSTGRES_DB: nbp_project
+      POSTGRES_USER: nbp
+      POSTGRES_PASSWORD: nbp123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql
+      - ./postgres_output:/workspace/postgres_output
+    shm_size: "1gb"
+
+volumes:
+  postgres_data:

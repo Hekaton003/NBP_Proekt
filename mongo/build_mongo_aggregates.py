@@ -417,8 +417,9 @@ if UPLOAD:
         mongo_db["tips"].create_index([("user_id", ASCENDING), ("date", DESCENDING)])
     if want("businesses"):
         mongo_db["businesses"].create_index([("location.geo", GEOSPHERE)])
+        mongo_db["businesses"].create_index([("id", ASCENDING)])
         mongo_db["businesses"].create_index([("categories", ASCENDING)])
     if want("users"):
+        mongo_db["users"].create_index([("id", ASCENDING)])
         mongo_db["users"].create_index([("name", ASCENDING)])
-        mongo_db["users"].create_index([("review_count", DESCENDING)])
     print(f"Uploaded to MongoDB db='{MONGO_DB}' at {MONGO_URI}")

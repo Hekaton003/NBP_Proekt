@@ -1,0 +1,11 @@
+db,query_id,query_name,wall_ms_median,wall_ms_min,wall_ms_max,n_returned,repeats
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,28.474,27.816,29.41,1597,10
+postgresql,Q2,Five-star reviews written during 2018,2106.877,2071.588,2330.83,135090,10
+postgresql,Q3,Philadelphia businesses with a parking lot,110.875,106.076,121.19,1565,10
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,2261.153,2157.407,2292.932,50,10
+postgresql,Q5,Users who reviewed at least three businesses in one city,18002.621,17718.352,19289.407,690265,10
+postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",2821.35,2714.371,2869.192,1,10
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,21.806,20.442,25.59,65,10
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",2747.31,2660.566,2929.634,2,10
+postgresql,Q9,Average check-ins per business for each category,1263.967,1223.25,1287.274,1311,10
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,55042.301,51784.787,57800.882,2179,10

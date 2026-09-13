@@ -318,7 +318,7 @@ if want("businesses"):
             "name": b.name,
             "location": {
                 "address": None if pd.isna(b.address) else b.address,
-                "city": None if pd.isna(b.city) else b.city,
+                "city": None if pd.isna(b.city) else str(b.city).strip(),
                 "state": None if pd.isna(b.state) else b.state,
                 "postal_code": None if pd.isna(b.postal_code) else str(b.postal_code),
             },
@@ -327,7 +327,8 @@ if want("businesses"):
             "attributes": safe_literal(b.attributes, {}),
             "categories": safe_literal(b.categories, []),
             "hours": safe_literal(b.hours, {}),
-            "review_count": int(review_count.get(bid, 0)),
+            "review_count": 0 if pd.isna(b.review_count) else int(b.review_count),
+            "loaded_review_count": int(review_count.get(bid, 0)),
             "tip_count": int(tip_count.get(bid, 0)),
             "checkin_stats": checkin_stats.get(bid),
             "checkin_monthly": checkin_monthly.get(bid, []),

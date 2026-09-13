@@ -1,101 +1,101 @@
 db,query_id,query_name,run,wall_ms,n_returned
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,1,28.22573400044348,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,2,29.05537300011929,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,3,27.919119000216597,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,4,28.31153799979802,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,5,31.930209000165632,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,6,36.626629999773286,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,7,35.60028199990484,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,8,27.864217000569624,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,9,28.533648000120593,1597
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,10,28.191031999995175,1597
-postgresql,Q2,Five-star reviews written during 2018,1,2130.501157999788,135090
-postgresql,Q2,Five-star reviews written during 2018,2,2118.9585830006763,135090
-postgresql,Q2,Five-star reviews written during 2018,3,2152.7637980007057,135090
-postgresql,Q2,Five-star reviews written during 2018,4,2175.3498999996737,135090
-postgresql,Q2,Five-star reviews written during 2018,5,2047.6380109994352,135090
-postgresql,Q2,Five-star reviews written during 2018,6,2040.8873729993502,135090
-postgresql,Q2,Five-star reviews written during 2018,7,2084.6939180000845,135090
-postgresql,Q2,Five-star reviews written during 2018,8,2048.8628909997715,135090
-postgresql,Q2,Five-star reviews written during 2018,9,2038.9460830001553,135090
-postgresql,Q2,Five-star reviews written during 2018,10,2035.2791219993378,135090
-postgresql,Q3,Philadelphia businesses with a parking lot,1,99.96828099974664,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,2,107.08947900002386,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,3,99.02934199999436,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,4,103.17521500019211,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,5,99.13454599973193,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,6,99.51736200036976,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,7,100.5997069996738,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,8,98.53292099978717,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,9,100.55650600043009,1565
-postgresql,Q3,Philadelphia businesses with a parking lot,10,97.22916600003373,1565
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,1,2130.5440129999624,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,2,2290.0836939998044,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,3,2119.404005999968,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,4,2022.8596820006715,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,5,2071.458165999502,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,6,2100.158107000425,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,7,2030.2380659995833,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,8,2018.9410080001835,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,9,2037.7101519998178,50
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,10,2033.4044000001086,50
-postgresql,Q5,Users who reviewed at least three businesses in one city,1,10123.535331999847,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,2,10110.457103000044,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,3,10142.264741999497,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,4,10162.957892000122,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,5,10136.802787000306,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,6,10230.617334999806,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,7,10020.687021999947,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,8,10041.595188000429,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,9,10075.226482999824,111656
-postgresql,Q5,Users who reviewed at least three businesses in one city,10,10012.64357799937,111656
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",1,2485.702633999608,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",2,2513.4575960000802,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",3,2532.331635000446,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",4,2520.8258780003234,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",5,2514.2168160000438,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",6,2505.535771000723,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",7,2499.5368390000294,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",8,2502.0330260003902,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",9,2510.5601650002427,1
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",10,2505.501164000634,1
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,1,20.251304999874264,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,2,18.86155099964526,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,3,20.462914000745513,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,4,19.443574000433728,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,5,19.409072000598826,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,6,18.277226999998675,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,7,20.205203999466903,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,8,18.47703499970521,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,9,18.685443000322266,65
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,10,18.170522999753302,65
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",1,2318.4999180002706,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",2,2308.2237300004635,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",3,2313.811885999712,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",4,2293.6147760001404,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",5,2323.567078000451,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",6,2286.670937999588,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",7,2319.718777000162,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",8,2300.3980009998486,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",9,2328.071486999761,2
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",10,2373.0495619993235,2
-postgresql,Q9,Average check-ins per business for each category,1,1081.2443120003081,1311
-postgresql,Q9,Average check-ins per business for each category,2,1065.021369000533,1311
-postgresql,Q9,Average check-ins per business for each category,3,1090.329271999508,1311
-postgresql,Q9,Average check-ins per business for each category,4,1086.0658550000153,1311
-postgresql,Q9,Average check-ins per business for each category,5,1123.6465420006425,1311
-postgresql,Q9,Average check-ins per business for each category,6,1114.3431359996612,1311
-postgresql,Q9,Average check-ins per business for each category,7,1126.1631240004135,1311
-postgresql,Q9,Average check-ins per business for each category,8,1107.7649210001255,1311
-postgresql,Q9,Average check-ins per business for each category,9,1111.0441280006853,1311
-postgresql,Q9,Average check-ins per business for each category,10,1145.995474999836,1311
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,1,50348.00467600053,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,2,52657.16873600013,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,3,50879.48464800047,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,4,49764.81354200041,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,5,49887.23118500002,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,6,51267.98444999986,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,7,50678.442256999915,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,8,50165.523337000195,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,9,54767.216559999724,2179
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,10,51524.81886200076,2179
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,1,28.33134100001189,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,2,28.02702400003909,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,3,27.64950399978261,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,4,28.83376799945836,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,5,30.06783599994378,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,6,30.05583500089415,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,7,32.93969199876301,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,8,29.830122000930714,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,9,29.638812000484904,1597
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,10,28.772465000656666,1597
+postgresql,Q2,Five-star reviews written during 2018,1,2154.063142999803,135090
+postgresql,Q2,Five-star reviews written during 2018,2,2312.8486379991955,135090
+postgresql,Q2,Five-star reviews written during 2018,3,2155.4100009998365,135090
+postgresql,Q2,Five-star reviews written during 2018,4,2155.925438999475,135090
+postgresql,Q2,Five-star reviews written during 2018,5,2136.778509000578,135090
+postgresql,Q2,Five-star reviews written during 2018,6,2303.361946998848,135090
+postgresql,Q2,Five-star reviews written during 2018,7,2368.330249999417,135090
+postgresql,Q2,Five-star reviews written during 2018,8,2428.92039400067,135090
+postgresql,Q2,Five-star reviews written during 2018,9,2282.407284999863,135090
+postgresql,Q2,Five-star reviews written during 2018,10,2255.821686001582,135090
+postgresql,Q3,Philadelphia businesses with a parking lot,1,103.26763400007621,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,2,108.11638799896173,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,3,102.81270900122763,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,4,105.50855200017395,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,5,118.11351500000455,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,6,108.77212299965322,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,7,127.63901499965868,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,8,133.28773399916827,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,9,113.95921400071529,1565
+postgresql,Q3,Philadelphia businesses with a parking lot,10,111.44598200007749,1565
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,1,2260.53630000024,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,2,2215.7171340004425,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,3,2189.8987969998416,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,4,2191.679175999525,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,5,2429.988832000163,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,6,2334.0157340007863,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,7,2269.391710999116,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,8,2209.5159519994922,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,9,2252.0094930005143,50
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,10,2311.036596000122,50
+postgresql,Q5,Users who reviewed at least three businesses in one city,1,10879.782843001522,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,2,10409.057414999552,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,3,10496.57236099847,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,4,10510.842416000742,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,5,10442.007776999162,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,6,10342.095537000205,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,7,10299.21433599884,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,8,10244.310250000126,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,9,10185.990178000793,111656
+postgresql,Q5,Users who reviewed at least three businesses in one city,10,10200.802634000866,111656
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",1,2470.468247000099,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",2,2492.4786900010076,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",3,2463.804901999538,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",4,2514.396384000065,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",5,2530.4429280004115,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",6,2454.151964999255,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",7,2457.9544170010195,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",8,2478.8594150013523,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",9,2466.984398999557,1
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",10,2503.832714000964,1
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,1,19.675422001455445,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,2,20.96148899909167,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,3,20.06974300093134,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,4,20.145946999036823,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,5,21.693627000786364,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,6,20.16664800066792,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,7,19.514814001013292,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,8,20.768479000253137,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,9,20.095844000024954,65
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,10,19.12809399982507,65
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",1,2401.081736999913,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",2,2373.2839490003244,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",3,2360.822802000257,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",4,2425.9028819997184,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",5,2410.1641649995145,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",6,2660.1260080005886,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",7,2424.904305000382,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",8,2477.9498749994673,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",9,2440.368210000088,2
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",10,2470.7197080006154,2
+postgresql,Q9,Average check-ins per business for each category,1,1084.251320000476,1311
+postgresql,Q9,Average check-ins per business for each category,2,1125.4419550004968,1311
+postgresql,Q9,Average check-ins per business for each category,3,1129.5290739999473,1311
+postgresql,Q9,Average check-ins per business for each category,4,1127.335655999559,1311
+postgresql,Q9,Average check-ins per business for each category,5,1091.333731999839,1311
+postgresql,Q9,Average check-ins per business for each category,6,1189.0217529999063,1311
+postgresql,Q9,Average check-ins per business for each category,7,1124.648012999387,1311
+postgresql,Q9,Average check-ins per business for each category,8,1103.9018600004056,1311
+postgresql,Q9,Average check-ins per business for each category,9,1099.1703439995035,1311
+postgresql,Q9,Average check-ins per business for each category,10,1106.0849229997984,1311
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,1,50263.46204699985,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,2,50593.52539499923,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,3,50722.68952700142,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,4,50633.93324400022,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,5,50545.475486000214,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,6,51624.348784000176,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,7,53139.66726400031,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,8,52102.192753000054,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,9,52253.304773999844,2179
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,10,52361.92936800035,2179

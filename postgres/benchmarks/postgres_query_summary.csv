@@ -1,11 +1,11 @@
 db,query_id,query_name,wall_ms_median,wall_ms_min,wall_ms_max,n_returned,repeats
-postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,28.423,27.864,36.627,1597,10
-postgresql,Q2,Five-star reviews written during 2018,2066.778,2035.279,2175.35,135090,10
-postgresql,Q3,Philadelphia businesses with a parking lot,99.743,97.229,107.089,1565,10
-postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,2054.584,2018.941,2290.084,50,10
-postgresql,Q5,Users who reviewed at least three businesses in one city,10116.996,10012.644,10230.617,111656,10
-postgresql,Q6,"Business profile card for business_id = ""VQcCL9PiNL_wkGf-uF3fjg"" (Royal House)",2508.048,2485.703,2532.332,1,10
-postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,19.135,18.171,20.463,65,10
-postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",2316.156,2286.671,2373.05,2,10
-postgresql,Q9,Average check-ins per business for each category,1109.405,1065.021,1145.995,1311,10
-postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,50778.963,49764.814,54767.217,2179,10
+postgresql,Q1,Open Philadelphia businesses with more than 100 reviews,29.236,27.65,32.94,1597,10
+postgresql,Q2,Five-star reviews written during 2018,2269.114,2136.779,2428.92,135090,10
+postgresql,Q3,Philadelphia businesses with a parking lot,110.109,102.813,133.288,1565,10
+postgresql,Q4,Latest 50 four-star-or-higher brunch reviews for Philadelphia restaurants,2256.273,2189.899,2429.989,50,10
+postgresql,Q5,Users who reviewed at least three businesses in one city,10375.576,10185.99,10879.783,111656,10
+postgresql,Q6,"Business profile card for business_id = ""_ab50qdWOk0DdB6XOrBitw""",2474.664,2454.152,2530.443,1,10
+postgresql,Q7,Complimented tips for Philadelphia restaurants during 2018,20.121,19.128,21.694,65,10
+postgresql,Q8,"Elite vs non-elite users: average fans, friends, votes, and compliments",2425.404,2360.823,2660.126,2,10
+postgresql,Q9,Average check-ins per business for each category,1115.366,1084.251,1189.022,1311,10
+postgresql,Q10,Top 5 businesses in each city with at least 50 reviews,51173.519,50263.462,53139.667,2179,10
